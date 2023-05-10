@@ -1,5 +1,6 @@
 language = "nix"
 run = ["npm", "start"]
+entrypoint = "src/index.js"
 
 [packager]
 language = "nodejs-npm"
