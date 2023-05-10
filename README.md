@@ -6,4 +6,4 @@ Tinf0il is a fast and sleak web proxy for windows 10/11
 
 ## Deployment
 
-[![Start unblocking now!](https://github.com/Aluminum-Depot/Tinf0il/blob/main/button.svg)](https://tinf0il.tech)
+[![Deploy to Heroku](https://github.com/Aluminum-Depot/Tinf0il/blob/main/button.svg)](https://tinf0il.tech)
