@@ -1,4 +1,3 @@
-const ultraviolet_static = require('ultraviolet-static')
 import createBareServer from "@tomphttp/bare-server-node";
 import express from "express";
 import { createServer } from "node:http";
